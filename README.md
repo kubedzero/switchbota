@@ -10,8 +10,8 @@ This project helps to replace the default firmware on the SwitchBot Smart Plug M
 
 There are two SKUs of the SwitchBot Smart Plug Mini released in the US: 
 
-- The original "Smart Plug Mini" with model number W1901400, released in early 2022. As of 2023-12, Amazon sells these in [four-packs](https://www.amazon.com/dp/B09YV2L3MN) for about $30, [two-packs](https://www.amazon.com/dp/B09YV3LH8Y) for $19, or [one-packs](https://www.amazon.com/dp/B09QFLJH8T) for $12
-- The updated "HomeKit Smart Plug Mini" with model number W1901401, released later in 2022. As of 2023-12, Amazon sells these in [four-packs](https://www.amazon.com/dp/B0B9RHTM6Y) for about $38 or [one-packs](https://www.amazon.com/dp/B0B39DJFR8) for $15
+- The original "Smart Plug Mini" with model number W1901400, released in early 2022. As of 2023-12, Amazon sells these in [four-packs](https://www.amazon.com/dp/B0DSJHFG69) for about $30, [two-packs](https://www.amazon.com/dp/B0DSJF58LT) for $19, or [one-packs](https://www.amazon.com/dp/B0DSJK8B73) for $12
+- The updated "HomeKit Smart Plug Mini" with model number W1901401, released later in 2022. As of 2023-12, Amazon sells these in [four-packs](https://www.amazon.com/dp/B0DSJGH1VP) for about $38, [two-packs](https://www.amazon.com/dp/B0DSJGGHDF) for $25, or [one-packs](https://www.amazon.com/dp/B0DSJH7YG6) for $15
 
 Some details about the devices are as follows:
 
