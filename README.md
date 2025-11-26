@@ -20,7 +20,7 @@ Some details about the devices are as follows:
 - They are ultrasonically welded shut, requiring destruction of the plastic housing to access the circuits within. There are no screws to allow access to the internals, the way there is with the Sonoff S31
 - They use the Shanghai Belling BL0937 energy measurement IC to track power usage
 - They use the Espressif ESP32-C3 chip for WiFi, Bluetooth Low Energy (BLE), and circuit control. See [here](https://tasmota.github.io/docs/ESP32/#esp32-differences) to learn about the different types of ESP32. The MAC addresses for WiFi and BLE follow the [ESP32 standard](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/system/misc_system_api.html#mac-address) of having an offset of two. If the WIFI-MAC is `34:85:18:0F:CC:DC`, then the BLE-MAC is `34:85:18:0F:CC:DE` (DC in hex is 220, DE is 222)
-- The SwitchbOTA flashing process is confirmed to work on both device models using firmware v1.4 or older (v1.3, v1.2)
+- The SwitchbOTA flashing process is confirmed to work on both device models using firmware v1.8 or older (v1.5, v1.4, v1.3, v1.2)
 
 ## Disclaimer
 Writing to the bootloader over OTA is dangerous and not normally done for good reason. If your device loses power or somehow flashes corrupted data, the device will be bricked and require disassembly to reprogram the device. Only perform this process if you are comfortable disassembling your plug to fix it if it breaks! Of course, do not unplug or otherwise disturb the plug while it is performing the OTA.
